@@ -1,0 +1,4 @@
+.env
+articleiq_db/
+__pycache__/
+.venv/
